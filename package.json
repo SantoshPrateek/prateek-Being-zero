@@ -1,0 +1,19 @@
+{
+  "name": "prateek-being-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantoshPrateek/prateek-Being-zero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantoshPrateek/prateek-Being-zero/issues"
+  },
+  "homepage": "https://github.com/SantoshPrateek/prateek-Being-zero#readme"
+}
